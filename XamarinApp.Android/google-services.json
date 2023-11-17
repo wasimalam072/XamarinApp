@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525903501663",
+    "project_id": "xamarinapp-855d9",
+    "storage_bucket": "xamarinapp-855d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525903501663:android:f39a99039a2bd160b27eea",
+        "android_client_info": {
+          "package_name": "com.companyname.xamarinapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw4yPS3oDsTXVQcFk4N0RKzv3cIfs2y-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
