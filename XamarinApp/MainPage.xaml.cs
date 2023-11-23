@@ -13,6 +13,7 @@ namespace XamarinApp
         public MainPage()
         {
             InitializeComponent();
+            BindingContext = new MainViewModel();
         }
     }
 }
